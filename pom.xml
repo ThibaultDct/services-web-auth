@@ -11,6 +11,7 @@
 	<groupId>fr.epsi</groupId>
 	<artifactId>webservice-auth</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>webservice-auth</name>
 	<description>Authentication and registration API for webservice</description>
 	<properties>
